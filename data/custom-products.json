@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prod_1789115540797",
+    "name": "CYBERPUNK NEON GLITCH TEE",
+    "slug": "cyberpunk-neon-glitch-tee-2",
+    "description": "Futuristic street calligraphy with neon reactive screenprint.",
+    "price": 1899,
+    "fit": "Oversized Boxy Fit",
+    "material": "100% Super Combed Cotton (240 GSM)",
+    "collection": "Drop 01 / Street Urban",
+    "badge": "NEW DROP",
+    "active": true,
+    "categoryId": "cat_street_urban",
+    "images": [
+      {
+        "id": "img_1789115540797_0",
+        "url": "/images/products/cyber-tee/front-1789115539703.jpg",
+        "altText": "Front View",
+        "sortOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": "var_1789115540797_0",
+        "size": "S",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-S",
+        "stock": 12
+      },
+      {
+        "id": "var_1789115540797_1",
+        "size": "M",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-M",
+        "stock": 24
+      },
+      {
+        "id": "var_1789115540797_2",
+        "size": "L",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-L",
+        "stock": 30
+      },
+      {
+        "id": "var_1789115540797_3",
+        "size": "XL",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-XL",
+        "stock": 18
+      },
+      {
+        "id": "var_1789115540797_4",
+        "size": "XXL",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-XXL",
+        "stock": 10
+      }
+    ],
+    "createdAt": "2026-09-11T08:32:20.797Z",
+    "updatedAt": "2026-09-11T08:32:20.797Z"
+  },
+  {
+    "id": "prod_1789113378982",
+    "name": "CYBERPUNK NEON GLITCH TEE",
+    "slug": "cyberpunk-neon-glitch-tee",
+    "description": "Futuristic street calligraphy with neon reactive screenprint.",
+    "price": 1899,
+    "fit": "Oversized Boxy Fit",
+    "material": "100% Super Combed Cotton (240 GSM)",
+    "collection": "Drop 01 / Street Urban",
+    "badge": "NEW DROP",
+    "active": true,
+    "categoryId": "cat_street_urban",
+    "images": [
+      {
+        "id": "img_1789113378981_0",
+        "url": "/images/products/cyber-tee/front-1789113377991.jpg",
+        "altText": "Front View",
+        "sortOrder": 0
+      }
+    ],
+    "variants": [
+      {
+        "id": "var_1789113378981_0",
+        "size": "S",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-S",
+        "stock": 12
+      },
+      {
+        "id": "var_1789113378981_1",
+        "size": "M",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-M",
+        "stock": 24
+      },
+      {
+        "id": "var_1789113378981_2",
+        "size": "L",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-L",
+        "stock": 30
+      },
+      {
+        "id": "var_1789113378981_3",
+        "size": "XL",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-XL",
+        "stock": 18
+      },
+      {
+        "id": "var_1789113378981_4",
+        "size": "XXL",
+        "color": "Acid Black",
+        "sku": "CYBERPUNK-NEON-GLITCH-TEE-XXL",
+        "stock": 10
+      }
+    ],
+    "createdAt": "2026-09-11T07:56:18.982Z",
+    "updatedAt": "2026-09-11T07:56:18.982Z"
+  }
+]

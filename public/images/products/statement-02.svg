@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#222228" />
+      <stop offset="100%" stop-color="#0d0d0f" />
+    </radialGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="25" stdDeviation="30" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+  <!-- Background Canvas -->
+  <rect width="800" height="1000" fill="url(#bgGlow)" />
+  
+  <!-- Subtle Editorial Grid & Watermark -->
+  <line x1="60" y1="60" x2="740" y2="60" stroke="#333338" stroke-width="1" />
+  <line x1="60" y1="940" x2="740" y2="940" stroke="#333338" stroke-width="1" />
+  <text x="60" y="45" fill="#71717a" font-family="monospace" font-size="12" letter-spacing="3">UNFOLD // PERSPECTIVE ARCHIVE</text>
+  <text x="740" y="45" text-anchor="end" fill="#71717a" font-family="monospace" font-size="12" letter-spacing="2">240 GSM HEAVYWEIGHT</text>
+  
+  <!-- T-Shirt Silhouette Group -->
+  <g filter="url(#shadow)">
+    <!-- T-shirt Shape (Oversized Boxy Tee) -->
+    <path d="M 280 140 
+             C 320 185, 480 185, 520 140 
+             L 680 230 
+             L 620 370 
+             L 550 330 
+             L 550 820 
+             C 550 830, 540 840, 520 840 
+             L 280 840 
+             C 260 840, 250 830, 250 820 
+             L 250 330 
+             L 180 370 
+             L 120 230 
+             Z" 
+          fill="#f4f4f5" stroke="#3f3f46" stroke-width="1.5" />
+          
+    <!-- Ribbed Collar Detail -->
+    <path d="M 280 140 C 320 190, 480 190, 520 140 C 475 165, 325 165, 280 140 Z" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+    
+    <!-- Sleeve Stitch Lines -->
+    <path d="M 180 370 L 250 330" stroke="#27272a" stroke-width="2" stroke-dasharray="4 3" />
+    <path d="M 620 370 L 550 330" stroke="#27272a" stroke-width="2" stroke-dasharray="4 3" />
+    
+    <!-- Center Graphic Artwork Area -->
+    <g transform="translate(400, 420)">
+      <!-- Artwork Box -->
+      <rect x="-140" y="-120" width="280" height="300" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.4"/>
+      
+      <!-- Graphic Elements -->
+      <circle cx="0" cy="-20" r="55" fill="none" stroke="#18181b" stroke-width="3" opacity="0.8"/>
+      <polygon points="0,-70 45,15 -45,15" fill="#ef4444" opacity="0.25" />
+      
+      <!-- Graphic Typography -->
+      <text x="0" y="30" text-anchor="middle" fill="#18181b" font-family="Arial Black, Impact, sans-serif" font-size="22" font-weight="900" letter-spacing="4">ILLUSION</text>
+      <text x="0" y="55" text-anchor="middle" fill="#ef4444" font-family="monospace" font-size="11" letter-spacing="6">UNFOLD PERSPECTIVE</text>
+      <text x="0" y="80" text-anchor="middle" fill="#a1a1aa" font-family="sans-serif" font-size="10" letter-spacing="2">EDITION 01 • VERIFIED</text>
+      
+      <!-- Barcode Accent -->
+      <rect x="-60" y="110" width="4" height="25" fill="#18181b"/>
+      <rect x="-52" y="110" width="2" height="25" fill="#18181b"/>
+      <rect x="-46" y="110" width="8" height="25" fill="#18181b"/>
+      <rect x="-34" y="110" width="3" height="25" fill="#18181b"/>
+      <rect x="-27" y="110" width="6" height="25" fill="#18181b"/>
+      <rect x="-17" y="110" width="2" height="25" fill="#18181b"/>
+      <rect x="-11" y="110" width="5" height="25" fill="#18181b"/>
+      <rect x="-2" y="110" width="2" height="25" fill="#18181b"/>
+      <rect x="4" y="110" width="7" height="25" fill="#18181b"/>
+      <rect x="15" y="110" width="3" height="25" fill="#18181b"/>
+      <rect x="22" y="110" width="6" height="25" fill="#18181b"/>
+      <rect x="32" y="110" width="2" height="25" fill="#18181b"/>
+      <rect x="38" y="110" width="8" height="25" fill="#18181b"/>
+      <rect x="50" y="110" width="3" height="25" fill="#18181b"/>
+      <text x="0" y="148" text-anchor="middle" fill="#71717a" font-family="monospace" font-size="9" letter-spacing="4">89043219001</text>
+    </g>
+  </g>
+  
+  <!-- Lower Info Card -->
+  <text x="60" y="900" fill="#f4f4f5" font-family="Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="2">CONTROL IS AN ILLUSION</text>
+  <text x="60" y="924" fill="#a1a1aa" font-family="monospace" font-size="13" letter-spacing="1">Chalk White Swiss Type Existential Tee</text>
+</svg>
