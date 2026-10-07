@@ -8,6 +8,7 @@ import { CartDrawer } from "@/components/CartDrawer";
 import { CartProvider } from "@/context/CartContext";
 import { ThemeProvider } from "@/context/ThemeContext";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
+import { AiStylistWidget } from "@/components/AiStylistWidget";
 import { getCategories } from "@/lib/data";
 
 const inter = Inter({
@@ -66,6 +67,7 @@ export default async function RootLayout({
             <CartDrawer />
             <main className="flex-1">{children}</main>
             <Footer />
+            <AiStylistWidget />
           </CartProvider>
         </ThemeProvider>
       </body>

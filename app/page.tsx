@@ -7,6 +7,7 @@ import { ProductGrid } from "@/components/ProductGrid";
 import { Container } from "@/components/Container";
 import { Button } from "@/components/Button";
 import { StreetUrbanSection } from "@/components/StreetUrbanSection";
+import { AiStylistSection } from "@/components/AiStylistSection";
 import { getCategories, getProducts } from "@/lib/data";
 
 export const revalidate = 60; // ISR revalidation every 60 seconds
@@ -145,7 +146,10 @@ export default async function HomePage() {
         </div>
       </Container>
 
-      {/* 6. BRAND STORY */}
+      {/* 6. AI AGENT STYLIST SHOWCASE */}
+      <AiStylistSection />
+
+      {/* 7. BRAND STORY */}
       <Container>
         <div className="bg-zinc-950 border border-zinc-800 rounded-lg p-8 sm:p-12 lg:p-16 grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-7 space-y-6">
