@@ -240,13 +240,17 @@ export const SEED_PRODUCTS: Product[] = [
     categoryId: "cat_statement_attitude",
     badge: "BEST SELLER",
     images: [
-      { id: "img_05_1", url: "/images/products/statement-01.svg", altText: "Do Not Disturb Tee Front View", sortOrder: 0 },
+      { id: "img_05_f", url: "/images/products/do-not-disturb-my-peace-tee/front.jpg", altText: "DO NOT DISTURB MY PEACE TEE Front View", sortOrder: 0 },
+      { id: "img_05_b", url: "/images/products/do-not-disturb-my-peace-tee/back.jpg", altText: "DO NOT DISTURB MY PEACE TEE Back View", sortOrder: 1 },
+      { id: "img_05_det", url: "/images/products/do-not-disturb-my-peace-tee/details.jpg", altText: "DO NOT DISTURB MY PEACE TEE Details & Label", sortOrder: 2 },
+      { id: "img_05_lb", url: "/images/products/do-not-disturb-my-peace-tee/lookbook.jpg", altText: "DO NOT DISTURB MY PEACE TEE Full Lookbook", sortOrder: 3 },
     ],
     variants: [
       { id: "var_05_s_blk", size: "S", color: "Pitch Black", sku: "DND-BLK-S", stock: 20 },
       { id: "var_05_m_blk", size: "M", color: "Pitch Black", sku: "DND-BLK-M", stock: 35 },
       { id: "var_05_l_blk", size: "L", color: "Pitch Black", sku: "DND-BLK-L", stock: 40 },
       { id: "var_05_xl_blk", size: "XL", color: "Pitch Black", sku: "DND-BLK-XL", stock: 25 },
+      { id: "var_05_xxl_blk", size: "XXL", color: "Pitch Black", sku: "DND-BLK-XXL", stock: 15 },
     ],
   },
   {

@@ -66,6 +66,15 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     image: "/images/products/surreal-horizon-abstract-tee/front.jpg",
   },
   {
+    name: "Do Not Disturb My Peace Tee",
+    slug: "do-not-disturb-my-peace-tee",
+    price: 1399,
+    badge: "BEST SELLER",
+    category: "Statement / Attitude",
+    fit: "Drop Shoulder Oversized",
+    image: "/images/products/do-not-disturb-my-peace-tee/front.jpg",
+  },
+  {
     name: "404 City Not Found Graphic Tee",
     slug: "404-city-not-found",
     price: 1399,
