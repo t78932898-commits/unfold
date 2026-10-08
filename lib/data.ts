@@ -193,13 +193,17 @@ export const SEED_PRODUCTS: Product[] = [
     categoryId: "cat_art_creative",
     badge: "LIMITED",
     images: [
-      { id: "img_03_1", url: "/images/products/art-01.svg", altText: "Surreal Horizon Tee Front View", sortOrder: 0 },
+      { id: "img_03_f", url: "/images/products/surreal-horizon-abstract-tee/front.jpg", altText: "SURREAL HORIZON ABSTRACT TEE Front View", sortOrder: 0 },
+      { id: "img_03_b", url: "/images/products/surreal-horizon-abstract-tee/back.jpg", altText: "SURREAL HORIZON ABSTRACT TEE Back View", sortOrder: 1 },
+      { id: "img_03_det", url: "/images/products/surreal-horizon-abstract-tee/details.jpg", altText: "SURREAL HORIZON ABSTRACT TEE Details & Color", sortOrder: 2 },
+      { id: "img_03_lb", url: "/images/products/surreal-horizon-abstract-tee/lookbook.jpg", altText: "SURREAL HORIZON ABSTRACT TEE Full Lookbook", sortOrder: 3 },
     ],
     variants: [
       { id: "var_03_s_wht", size: "S", color: "Raw Off-White", sku: "SH-WHT-S", stock: 12 },
       { id: "var_03_m_wht", size: "M", color: "Raw Off-White", sku: "SH-WHT-M", stock: 18 },
       { id: "var_03_l_wht", size: "L", color: "Raw Off-White", sku: "SH-WHT-L", stock: 20 },
       { id: "var_03_xl_wht", size: "XL", color: "Raw Off-White", sku: "SH-WHT-XL", stock: 10 },
+      { id: "var_03_xxl_wht", size: "XXL", color: "Raw Off-White", sku: "SH-WHT-XXL", stock: 8 },
     ],
   },
   {

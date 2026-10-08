@@ -57,6 +57,15 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     image: "/images/products/cyberpunk-neon-glitch-tee/front.jpg",
   },
   {
+    name: "Surreal Horizon Abstract Tee",
+    slug: "surreal-horizon-abstract-tee",
+    price: 1699,
+    badge: "LIMITED",
+    category: "Art / Creative",
+    fit: "Contemporary Relaxed Fit",
+    image: "/images/products/surreal-horizon-abstract-tee/front.jpg",
+  },
+  {
     name: "404 City Not Found Graphic Tee",
     slug: "404-city-not-found",
     price: 1399,
