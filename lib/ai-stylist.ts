@@ -54,7 +54,7 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     badge: "NEW DROP",
     category: "Street / Urban",
     fit: "Oversized Boxy Fit",
-    image: "/images/products/cyber-tee/front-1789115539703.jpg",
+    image: "/images/products/cyberpunk-neon-glitch-tee/front.jpg",
   },
   {
     name: "404 City Not Found Graphic Tee",

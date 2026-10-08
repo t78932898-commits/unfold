@@ -46,7 +46,7 @@ export function StreetUrbanSection() {
                 STREET / URBAN
               </h2>
               <p className="text-xs sm:text-sm font-mono text-zinc-300 mt-2 max-w-lg">
-                City After Dark &middot; Concrete Dreams &middot; Just Chill &middot; 404 City Not Found &middot; Different POV
+                Cyberpunk Neon Glitch &middot; City After Dark &middot; Concrete Dreams &middot; Just Chill &middot; 404 City Not Found
               </p>
             </div>
             <div className="flex-shrink-0">

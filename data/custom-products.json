@@ -3,7 +3,7 @@
     "id": "prod_1789115540797",
     "name": "CYBERPUNK NEON GLITCH TEE",
     "slug": "cyberpunk-neon-glitch-tee-2",
-    "description": "Futuristic street calligraphy with neon reactive screenprint.",
+    "description": "Futuristic street calligraphy with neon reactive screenprint. Minimalist glowing starburst chest motif on the front and high-density cyberpunk glitch hooded silhouette on the back.",
     "price": 1899,
     "fit": "Oversized Boxy Fit",
     "material": "100% Super Combed Cotton (240 GSM)",
@@ -13,57 +13,63 @@
     "categoryId": "cat_street_urban",
     "images": [
       {
-        "id": "img_1789115540797_0",
-        "url": "/images/products/cyber-tee/front-1789115539703.jpg",
-        "altText": "Front View",
+        "id": "img_cyber_front_2",
+        "url": "/images/products/cyberpunk-neon-glitch-tee/front.jpg",
+        "altText": "CYBERPUNK NEON GLITCH TEE Front View",
         "sortOrder": 0
+      },
+      {
+        "id": "img_cyber_back_2",
+        "url": "/images/products/cyberpunk-neon-glitch-tee/back.jpg",
+        "altText": "CYBERPUNK NEON GLITCH TEE Back View",
+        "sortOrder": 1
       }
     ],
     "variants": [
       {
         "id": "var_1789115540797_0",
         "size": "S",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-S",
         "stock": 12
       },
       {
         "id": "var_1789115540797_1",
         "size": "M",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-M",
         "stock": 24
       },
       {
         "id": "var_1789115540797_2",
         "size": "L",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-L",
         "stock": 30
       },
       {
         "id": "var_1789115540797_3",
         "size": "XL",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-XL",
         "stock": 18
       },
       {
         "id": "var_1789115540797_4",
         "size": "XXL",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-2-XXL",
         "stock": 10
       }
     ],
     "createdAt": "2026-09-11T08:32:20.797Z",
-    "updatedAt": "2026-09-11T08:32:20.797Z"
+    "updatedAt": "2026-10-08T11:37:00.000Z"
   },
   {
     "id": "prod_1789113378982",
     "name": "CYBERPUNK NEON GLITCH TEE",
     "slug": "cyberpunk-neon-glitch-tee",
-    "description": "Futuristic street calligraphy with neon reactive screenprint.",
+    "description": "Futuristic street calligraphy with neon reactive screenprint. Minimalist glowing starburst chest motif on the front and high-density cyberpunk glitch hooded silhouette on the back.",
     "price": 1899,
     "fit": "Oversized Boxy Fit",
     "material": "100% Super Combed Cotton (240 GSM)",
@@ -73,50 +79,56 @@
     "categoryId": "cat_street_urban",
     "images": [
       {
-        "id": "img_1789113378981_0",
-        "url": "/images/products/cyber-tee/front-1789113377991.jpg",
-        "altText": "Front View",
+        "id": "img_cyber_front",
+        "url": "/images/products/cyberpunk-neon-glitch-tee/front.jpg",
+        "altText": "CYBERPUNK NEON GLITCH TEE Front View",
         "sortOrder": 0
+      },
+      {
+        "id": "img_cyber_back",
+        "url": "/images/products/cyberpunk-neon-glitch-tee/back.jpg",
+        "altText": "CYBERPUNK NEON GLITCH TEE Back View",
+        "sortOrder": 1
       }
     ],
     "variants": [
       {
         "id": "var_1789113378981_0",
         "size": "S",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-S",
         "stock": 12
       },
       {
         "id": "var_1789113378981_1",
         "size": "M",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-M",
         "stock": 24
       },
       {
         "id": "var_1789113378981_2",
         "size": "L",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-L",
         "stock": 30
       },
       {
         "id": "var_1789113378981_3",
         "size": "XL",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-XL",
         "stock": 18
       },
       {
         "id": "var_1789113378981_4",
         "size": "XXL",
-        "color": "Acid Black",
+        "color": "Washed Black",
         "sku": "CYBERPUNK-NEON-GLITCH-TEE-XXL",
         "stock": 10
       }
     ],
     "createdAt": "2026-09-11T07:56:18.982Z",
-    "updatedAt": "2026-09-11T07:56:18.982Z"
+    "updatedAt": "2026-10-08T11:37:00.000Z"
   }
 ]
