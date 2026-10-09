@@ -292,13 +292,17 @@ export const SEED_PRODUCTS: Product[] = [
     categoryId: "cat_vintage_culture",
     badge: "BEST SELLER",
     images: [
-      { id: "img_07_1", url: "/images/products/vintage-01.svg", altText: "Tokyo Racer Tee Front View", sortOrder: 0 },
+      { id: "img_07_f", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/front.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Front View", sortOrder: 0 },
+      { id: "img_07_b", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/back.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Back View", sortOrder: 1 },
+      { id: "img_07_det", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/details.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Macro Details", sortOrder: 2 },
+      { id: "img_07_lb", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/lookbook.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Full Lookbook", sortOrder: 3 },
     ],
     variants: [
-      { id: "var_07_s_vnt", size: "S", color: "Faded Olive", sku: "TR-OLV-S", stock: 8 },
-      { id: "var_07_m_vnt", size: "M", color: "Faded Olive", sku: "TR-OLV-M", stock: 20 },
-      { id: "var_07_l_vnt", size: "L", color: "Faded Olive", sku: "TR-OLV-L", stock: 22 },
-      { id: "var_07_xl_vnt", size: "XL", color: "Faded Olive", sku: "TR-OLV-XL", stock: 14 },
+      { id: "var_07_s_vnt", size: "S", color: "Washed Black", sku: "TR-BLK-S", stock: 12 },
+      { id: "var_07_m_vnt", size: "M", color: "Washed Black", sku: "TR-BLK-M", stock: 24 },
+      { id: "var_07_l_vnt", size: "L", color: "Washed Black", sku: "TR-BLK-L", stock: 30 },
+      { id: "var_07_xl_vnt", size: "XL", color: "Washed Black", sku: "TR-BLK-XL", stock: 18 },
+      { id: "var_07_xxl_vnt", size: "XXL", color: "Washed Black", sku: "TR-BLK-XXL", stock: 10 },
     ],
   },
   {

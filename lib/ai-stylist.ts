@@ -84,6 +84,15 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     image: "/images/products/do-not-disturb-my-peace-tee/front.jpg",
   },
   {
+    name: "1988 Tokyo Midnight Racer Vintage Tee",
+    slug: "1988-tokyo-midnight-racer-vintage-tee",
+    price: 1599,
+    badge: "BEST SELLER",
+    category: "Vintage / Culture",
+    fit: "Vintage Boxy Fit",
+    image: "/images/products/1988-tokyo-midnight-racer-vintage-tee/front.jpg",
+  },
+  {
     name: "404 City Not Found Graphic Tee",
     slug: "404-city-not-found",
     price: 1399,
