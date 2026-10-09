@@ -219,12 +219,17 @@ export const SEED_PRODUCTS: Product[] = [
     categoryId: "cat_art_creative",
     badge: "NEW",
     images: [
-      { id: "img_04_1", url: "/images/products/art-02.svg", altText: "Cyber Dissolution Tee Front View", sortOrder: 0 },
+      { id: "img_04_f", url: "/images/products/cyber-dissolution-digital-art-tee/front.jpg", altText: "CYBER DISSOLUTION DIGITAL ART TEE Front View", sortOrder: 0 },
+      { id: "img_04_b", url: "/images/products/cyber-dissolution-digital-art-tee/back.jpg", altText: "CYBER DISSOLUTION DIGITAL ART TEE Back View", sortOrder: 1 },
+      { id: "img_04_det", url: "/images/products/cyber-dissolution-digital-art-tee/details.jpg", altText: "CYBER DISSOLUTION DIGITAL ART TEE Macro Details", sortOrder: 2 },
+      { id: "img_04_lb", url: "/images/products/cyber-dissolution-digital-art-tee/lookbook.jpg", altText: "CYBER DISSOLUTION DIGITAL ART TEE Full Poster", sortOrder: 3 },
     ],
     variants: [
+      { id: "var_04_s_blk", size: "S", color: "Jet Black", sku: "CD-BLK-S", stock: 12 },
       { id: "var_04_m_blk", size: "M", color: "Jet Black", sku: "CD-BLK-M", stock: 14 },
       { id: "var_04_l_blk", size: "L", color: "Jet Black", sku: "CD-BLK-L", stock: 22 },
       { id: "var_04_xl_blk", size: "XL", color: "Jet Black", sku: "CD-BLK-XL", stock: 15 },
+      { id: "var_04_xxl_blk", size: "XXL", color: "Jet Black", sku: "CD-BLK-XXL", stock: 8 },
     ],
   },
   {

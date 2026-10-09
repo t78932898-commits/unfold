@@ -66,6 +66,15 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     image: "/images/products/surreal-horizon-abstract-tee/front.jpg",
   },
   {
+    name: "Cyber Dissolution Digital Art Tee",
+    slug: "cyber-dissolution-digital-art-tee",
+    price: 1549,
+    badge: "NEW",
+    category: "Art / Creative",
+    fit: "Oversized Boxy Fit",
+    image: "/images/products/cyber-dissolution-digital-art-tee/front.jpg",
+  },
+  {
     name: "Do Not Disturb My Peace Tee",
     slug: "do-not-disturb-my-peace-tee",
     price: 1399,
