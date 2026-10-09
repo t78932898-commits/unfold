@@ -90,7 +90,7 @@ const CATALOG_ITEMS: StylistProductSuggestion[] = [
     badge: "BEST SELLER",
     category: "Vintage / Culture",
     fit: "Vintage Boxy Fit",
-    image: "/images/products/1988-tokyo-midnight-racer-vintage-tee/front.jpg",
+    image: "/images/products/1988-tokyo-midnight-racer-vintage-tee/back.jpg",
   },
   {
     name: "404 City Not Found Graphic Tee",

@@ -292,10 +292,9 @@ export const SEED_PRODUCTS: Product[] = [
     categoryId: "cat_vintage_culture",
     badge: "BEST SELLER",
     images: [
-      { id: "img_07_f", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/front.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Front View", sortOrder: 0 },
-      { id: "img_07_b", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/back.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Back View", sortOrder: 1 },
-      { id: "img_07_det", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/details.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Macro Details", sortOrder: 2 },
-      { id: "img_07_lb", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/lookbook.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Full Lookbook", sortOrder: 3 },
+      { id: "img_07_b", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/back.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Back View", sortOrder: 0 },
+      { id: "img_07_det", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/details.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Macro Details", sortOrder: 1 },
+      { id: "img_07_lb", url: "/images/products/1988-tokyo-midnight-racer-vintage-tee/lookbook.jpg", altText: "1988 TOKYO MIDNIGHT RACER VINTAGE TEE Full Lookbook", sortOrder: 2 },
     ],
     variants: [
       { id: "var_07_s_vnt", size: "S", color: "Washed Black", sku: "TR-BLK-S", stock: 12 },
